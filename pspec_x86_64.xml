@@ -1,0 +1,63 @@
+<PISI>
+    <Source>
+        <Name>python-docker-pycreds</Name>
+        <Packager>
+            <Name>Sönke Behrendt</Name>
+            <Email>thesoenke@outlook.com</Email>
+        </Packager>
+        <License>APACHE-2.0</License>
+        <PartOf>programming.python</PartOf>
+        <Summary xml:lang="en">Python bindings for the docker credentials store API</Summary>
+        <Description xml:lang="en">Python bindings for the docker credentials store API</Description>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+    </Source>
+    <Package>
+        <Name>python-docker-pycreds</Name>
+        <Summary xml:lang="en">Python bindings for the docker credentials store API</Summary>
+        <Description xml:lang="en">Python bindings for the docker credentials store API</Description>
+        <PartOf>programming.python</PartOf>
+        <Files>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.2.1-py2.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.2.1-py2.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.2.1-py2.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.2.1-py2.7.egg-info/not-zip-safe</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.2.1-py2.7.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.2.1-py2.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/__init__.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/constants.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/constants.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/errors.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/errors.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/store.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/store.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/version.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/version.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/docker_pycreds-0.2.1-py3.5.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/docker_pycreds-0.2.1-py3.5.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/docker_pycreds-0.2.1-py3.5.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/docker_pycreds-0.2.1-py3.5.egg-info/not-zip-safe</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/docker_pycreds-0.2.1-py3.5.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/docker_pycreds-0.2.1-py3.5.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/dockerpycreds/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/dockerpycreds/__pycache__/__init__.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/dockerpycreds/__pycache__/constants.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/dockerpycreds/__pycache__/errors.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/dockerpycreds/__pycache__/store.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/dockerpycreds/__pycache__/version.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/dockerpycreds/constants.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/dockerpycreds/errors.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/dockerpycreds/store.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/dockerpycreds/version.py</Path>
+        </Files>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2016-11-06</Date>
+            <Version>0.2.1</Version>
+            <Comment>Packaging update</Comment>
+            <Name>Sönke Behrendt</Name>
+            <Email>thesoenke@outlook.com</Email>
+        </Update>
+    </History>
+</PISI>
