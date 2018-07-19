@@ -2,8 +2,8 @@
     <Source>
         <Name>python-docker-pycreds</Name>
         <Packager>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>Sönke Behrendt</Name>
+            <Email>thesoenke@outlook.com</Email>
         </Packager>
         <License>Apache-2.0</License>
         <PartOf>programming.python</PartOf>
@@ -19,12 +19,12 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.2.1-py2.7.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.2.1-py2.7.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.2.1-py2.7.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.2.1-py2.7.egg-info/not-zip-safe</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.2.1-py2.7.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.2.1-py2.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.3.0-py2.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.3.0-py2.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.3.0-py2.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.3.0-py2.7.egg-info/not-zip-safe</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.3.0-py2.7.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/docker_pycreds-0.3.0-py2.7.egg-info/top_level.txt</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/__init__.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/__init__.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/constants.py</Path>
@@ -33,33 +33,37 @@
             <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/errors.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/store.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/store.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/utils.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/utils.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/version.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/version.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.2.1-py3.6.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.2.1-py3.6.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.2.1-py3.6.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.2.1-py3.6.egg-info/not-zip-safe</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.2.1-py3.6.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.2.1-py3.6.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.3.0-py3.6.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.3.0-py3.6.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.3.0-py3.6.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.3.0-py3.6.egg-info/not-zip-safe</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.3.0-py3.6.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.3.0-py3.6.egg-info/top_level.txt</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/__init__.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/__pycache__/__init__.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/__pycache__/constants.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/__pycache__/errors.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/__pycache__/store.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/__pycache__/utils.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/__pycache__/version.cpython-36.pyc</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/constants.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/errors.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/store.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/utils.py</Path>
             <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/version.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="3">
-            <Date>2018-01-30</Date>
-            <Version>0.2.1</Version>
+        <Update release="4">
+            <Date>2018-07-04</Date>
+            <Version>0.3.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>Sönke Behrendt</Name>
+            <Email>thesoenke@outlook.com</Email>
         </Update>
     </History>
 </PISI>

@@ -1,8 +1,8 @@
 name       : python-docker-pycreds
-version    : 0.2.1
-release    : 3
+version    : 0.3.0
+release    : 4
 source     :
-    - https://pypi.python.org/packages/95/2e/3c99b8707a397153bc78870eb140c580628d7897276960da25d8a83c4719/docker-pycreds-0.2.1.tar.gz : 93833a2cf280b7d8abbe1b8121530413250c6cd4ffed2c1cf085f335262f7348
+    - https://files.pythonhosted.org/packages/9e/7a/109e0a3cc3c19534edd843c16e792c67911b5b4072fdd34ddce90d49f355/docker-pycreds-0.3.0.tar.gz : 8b0e956c8d206f832b06aa93a710ba2c3bcbacb5a314449c040b0b814355bbff
 license    : Apache-2.0
 component  : programming.python
 summary    : Python bindings for the docker credentials store API
