@@ -1,8 +1,8 @@
 name       : python-docker-pycreds
-version    : 0.3.0
-release    : 4
+version    : 0.4.0
+release    : 5
 source     :
-    - https://files.pythonhosted.org/packages/9e/7a/109e0a3cc3c19534edd843c16e792c67911b5b4072fdd34ddce90d49f355/docker-pycreds-0.3.0.tar.gz : 8b0e956c8d206f832b06aa93a710ba2c3bcbacb5a314449c040b0b814355bbff
+    - git|https://github.com/shin-/dockerpy-creds.git : 0.4.0
 license    : Apache-2.0
 component  : programming.python
 summary    : Python bindings for the docker credentials store API
