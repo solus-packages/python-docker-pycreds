@@ -2,15 +2,15 @@
     <Source>
         <Name>python-docker-pycreds</Name>
         <Packager>
-            <Name>Philipp Trulson</Name>
-            <Email>philipp@trulson.de</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>Apache-2.0</License>
         <PartOf>programming.python</PartOf>
         <Summary xml:lang="en">Python bindings for the docker credentials store API</Summary>
         <Description xml:lang="en">Python bindings for the docker credentials store API
 </Description>
-        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://getsol.us/sources/README.Solus</Archive>
     </Source>
     <Package>
         <Name>python-docker-pycreds</Name>
@@ -37,33 +37,33 @@
             <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/utils.pyc</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/version.py</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/dockerpycreds/version.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.4.0-py3.6.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.4.0-py3.6.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.4.0-py3.6.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.4.0-py3.6.egg-info/not-zip-safe</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.4.0-py3.6.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/docker_pycreds-0.4.0-py3.6.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/__pycache__/__init__.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/__pycache__/constants.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/__pycache__/errors.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/__pycache__/store.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/__pycache__/utils.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/__pycache__/version.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/constants.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/errors.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/store.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/utils.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/dockerpycreds/version.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/docker_pycreds-0.4.0-py3.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/docker_pycreds-0.4.0-py3.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/docker_pycreds-0.4.0-py3.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/docker_pycreds-0.4.0-py3.7.egg-info/not-zip-safe</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/docker_pycreds-0.4.0-py3.7.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/docker_pycreds-0.4.0-py3.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/dockerpycreds/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/dockerpycreds/__pycache__/__init__.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/dockerpycreds/__pycache__/constants.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/dockerpycreds/__pycache__/errors.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/dockerpycreds/__pycache__/store.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/dockerpycreds/__pycache__/utils.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/dockerpycreds/__pycache__/version.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/dockerpycreds/constants.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/dockerpycreds/errors.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/dockerpycreds/store.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/dockerpycreds/utils.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/dockerpycreds/version.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="5">
-            <Date>2019-01-10</Date>
+        <Update release="6">
+            <Date>2020-01-25</Date>
             <Version>0.4.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Philipp Trulson</Name>
-            <Email>philipp@trulson.de</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>

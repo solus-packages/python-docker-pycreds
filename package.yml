@@ -1,6 +1,6 @@
 name       : python-docker-pycreds
 version    : 0.4.0
-release    : 5
+release    : 6
 source     :
     - git|https://github.com/shin-/dockerpy-creds.git : 0.4.0
 license    : Apache-2.0
