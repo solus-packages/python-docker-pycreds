@@ -1,6 +1,6 @@
 name       : python-docker-pycreds
 version    : 0.4.0
-release    : 6
+release    : 7
 source     :
     - git|https://github.com/shin-/dockerpy-creds.git : 0.4.0
 license    : Apache-2.0
@@ -10,10 +10,7 @@ description: |
     Python bindings for the docker credentials store API
 builddeps  :
     - pkgconfig(python3)
-    - python-setuptools
 build      : |
-    %python_setup
     %python3_setup
 install    : |
-    %python_install
     %python3_install
